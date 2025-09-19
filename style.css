@@ -1,0 +1,24 @@
+.block {
+    background: lightgreen;
+    padding: 10px;
+    margin: 5px;
+}
+
+.block-to-inline {
+    display: inline;
+    background: lightblue;
+    padding: 5px;
+    margin: 5px;
+}
+
+.inline {
+    color: red;
+    font-weight: bold;
+}
+
+.inline-to-block {
+    display: block;
+    background: yellow;
+    padding: 10px;
+    margin: 5px;
+}
